@@ -135,4 +135,4 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lahmarinhoh&repo=dio-lab-open-source&bg_color=ec63a1&border_color=fff&title_color=fff&text_color=FFF&hide_title=false&hide=stars)](https://github.com/lahmarinhoh/dio-lab-open-source)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lahmarinhoh&repo=dio-lab-open-source&bg_color=ec63a1&border_color=fff&title_color=fff&text_color=FFF&hide_title=false&hide=stars)](https://github.com/lahmarinhoh/js-developer-pokedex)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lahmarinhoh&repo=js-developer-pokedex&bg_color=ec63a1&border_color=fff&title_color=fff&text_color=FFF&hide_title=false&hide=stars)](https://github.com/lahmarinhoh/js-developer-pokedex)
