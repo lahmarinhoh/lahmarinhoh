@@ -3,12 +3,6 @@
 > "Quem come do fruto do conhecimento é sempre expulso de algum paraíso."
 -Melanie Klein
 
-<p>Me chamo Lara Marinho Cordeiro, sou graduanda em Sistemas de Informação com previsão de conclusão no fim de 2026, já cursei 6 períodos de Engenharia da Computação, ambos na <a href="https://uniube.br/">Universidade de Uberaba - Uniube</a> e também sou estudante em desenvolvimento Full Stack em paralelo com a universidade. Na minha concepção, ser analista de sistemas e trabalhar com desenvolvimento é um casamento que dá muito certo, pois com as habilidades da universidade, combinadas com as técnicas de desenvolvimento, sinto que a criação, execução e aplicação é aprimorada.</p>
-
-<p>Atualmente não possuo experiência comprovada em desenvolvimento, estou em busca de oportunidades na área para aplicar todos os conhecimentos que venho adquirindo ao longo desses últimos 2 anos em que iniciei os estudos, neste meio tempo, sempre realizo o treinamento das minhas habilidades com projetos pessoais sem fins e sempre busco conhecimento adicional realizando novos cursos. Apesar de não ter a experiência comprovada que o mercado necessita, minhas habilidades e proficiência com as ferramentas de desenvolvimento fazem da minha pessoa digna de receber confiança na atuação como desenvolvedora.</p>
-
-<p>No momento trabalho como Analista de Suporte JR III em uma empresa de telemarketing e soluções BI e estou me desempenhando ao máximo para realizar minha transição de carreira para a área de desenvolvimento, com isto estou em busca de oportunidades no setor, aberta à ofertas e propostas e também à projetos open source.</p>
-
 # &#128400;&#127998;&#128241;**Conecte-se comigo / Connect with me**
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100069911799556/)
